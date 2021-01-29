@@ -16,11 +16,11 @@ There are many people that thought [my recent OO-bashing post](https://leontrols
 
 > Please, post your clickbait bullshit somewhere else.
 
-Etc.
+etc.
 
-Really, what I'd like to do is to test my conjecture
+### Really, what I'd like to do is to test my conjecture
 
-> `all OO code can be refactored into equivalent non-OO code that's as easy or more easy to understand`
+> **All OO code can be refactored into equivalent non-OO code that's as easy or more easy to understand**
 
 To acheive that, I'm issuing:
 
