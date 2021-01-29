@@ -16,7 +16,13 @@ There are many people that thought [my recent OO-bashing post](https://leontrols
 
 > Please, post your clickbait bullshit somewhere else.
 
-Etc. Really, what I'd like to do is to test my conjecture - `all OO code can be refactored into equivalent non-OO code that's as easy or more easy to understand` - to acheive that, I'm issuing:
+Etc.
+
+Really, what I'd like to do is to test my conjecture
+
+> `all OO code can be refactored into equivalent non-OO code that's as easy or more easy to understand`
+
+To acheive that, I'm issuing:
 
 # A call to arms for Python OO enthusiasts
 
@@ -25,6 +31,6 @@ As per this [example](arms), submit a PR to this repo with the most idiomatic OO
 ## Rules
 
 - Max 500 lines - I don't have all the time. _(Sorry if you think this simply makes it an unfair test 😞)_.
-- You can use the stdlib + commonly used libraries, but it would be nice if the examples were relatively self contained.
+- You can use the stdlib + commonly used libraries, but it would be nice if the example is relatively self contained.
 - No operator overloading specific stuff (I get that `pathlib` is really cute).
 - If you want the code I write to be runnable, provide some tests alongside the code.
